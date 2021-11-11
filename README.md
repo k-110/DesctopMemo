@@ -1,0 +1,2 @@
+# DesctopMemo
+昔作ったメモ用取りようのアプリをCSharp化したもの
